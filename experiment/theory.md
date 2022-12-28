@@ -15,6 +15,7 @@ The 4 bar RRRP mechanism is another basic mechanism in studies on kinematics. It
   - l + e < L , shortest link is crank : Slider Crank (RRRP)
   - l + e < L , shortest link is coupler : Slider Rocker (RRRP)
 - l + e > L : Non Grashofian linkage
+
 For a more detailed introduction to Grashof criteria see the animated guide that follows. If undisturbed , the animation will proceed at a predetermined pace. You can either click on the animation itself to move from step to step as per your convenience. Alternatively you can use the controls at the bottom of the animation to see it at your own pace.
 
 <p class="heading-content"> 
